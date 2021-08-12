@@ -1,0 +1,48 @@
+@media (max-width: 935px) {
+    .buttons-wrapper{
+        flex-direction: column;
+    }
+    .navbar-wrapper{
+        flex-direction: column;
+    }
+    .navbar-wrapper > .left > .left-column > .logo-image {
+        padding-top: 20px;
+    }
+    .navbar-wrapper > .left > .right-column {
+        align-self: center;
+    }
+    .navbar-wrapper > .left {
+        flex-direction: column;
+    }
+    .navbar-wrapper >.right {
+        flex-direction: column;
+        align-self: center;
+    }
+    .navbar-wrapper > .left >.right-column> h4.explore {
+        font-size: 20px;
+    }
+    .navbar-wrapper > .left > .right-column> .links-codepen-wrapper {
+        flex-direction: column;
+    }
+    .navbar-wrapper > .left > .right-column> .links-codepen-wrapper> .nav-link {
+        display: flex;
+        padding-right: 0px;
+    }
+    .body-section-column > .body-column > .body-right-column {
+        display: none;
+    }
+    .body-section-column > .body-column >.body-left-column >.dialog1 {
+        font-size: 2.5em;
+    }
+    .body-section-column > .body-column >.body-left-column >.dialog2 {
+        font-size: 2em;
+    }
+}
+@media (max-width: 660px) {
+    .body-section-column > .body-column >.body-left-column >.dialog1 {
+        font-size: 1.8em;
+    }
+    .body-section-column > .body-column >.body-left-column >.dialog2 {
+        font-size: 1.4em;
+    }
+}

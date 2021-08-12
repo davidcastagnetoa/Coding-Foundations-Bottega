@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    color: white;
+    background: #191a1d;
+}
+html {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+    font-size: 15px;
+    font-weight: 400;
+}

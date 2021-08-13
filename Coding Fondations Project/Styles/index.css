@@ -197,14 +197,12 @@
         font-size: 3rem;
     }
     .body-section-column > .body-column > .body-left-column >h1.dialog1 {
-        font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
         font-weight: 340;
     }
     .body-section-column > .body-column > .body-left-column >h2 {
         font-size: 2rem;
     }
     .body-section-column > .body-column > .body-left-column >h2.dialog2 {
-        font-family: "Lato", "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
         font-weight: 300;
         color: #bcbec0;
         padding: 1rem 0;
@@ -273,7 +271,7 @@
     }
     .body-section-column > .body-column > .body-right-column > #plantilla{
         max-width: 100%;
-        /* height: auto; */
+        box-shadow: 0px 0px 20px 5px #171519;
     }
     
 /* bottom wrapper */
@@ -295,4 +293,5 @@
     color: white;
     text-align: center;
     text-decoration: none;
+    font-size: 1.3rem;
 }

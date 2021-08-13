@@ -271,7 +271,7 @@
     }
     .body-section-column > .body-column > .body-right-column > #plantilla{
         max-width: 100%;
-        box-shadow: 0px 0px 20px 5px #171519;
+        box-shadow: 0px 0px 20px 5px #171519; /* ////SHADOW OF THE IMAGE ON THE RIGHT//// */
     }
     
 /* bottom wrapper */
